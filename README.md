@@ -1,2 +1,2 @@
 # HTML-guanabara
-Códigos desenvolvidos ao longo do curso de HTML do Gustavo Guanabara
+Códigos desenvolvidos ao longo do curso de HTML e CSS do SuperSimpleDEV
