@@ -1,2 +1,2 @@
-# HTML-guanabara
+# HTML-CSS-supersimpledev
 Códigos desenvolvidos ao longo do curso de HTML e CSS do SuperSimpleDEV
